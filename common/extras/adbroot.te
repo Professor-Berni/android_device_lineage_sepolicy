@@ -1,1 +1,2 @@
+allow adbroot unlabeled:binder impersonate;
 allow adbroot vendor_file:file r_file_perms;

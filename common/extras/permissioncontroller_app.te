@@ -1,1 +1,2 @@
+allow permissioncontroller_app unlabeled:binder impersonate;
 allow permissioncontroller_app vendor_file:file rx_file_perms;

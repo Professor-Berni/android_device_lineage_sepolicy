@@ -1,1 +1,5 @@
+allow init blkid_exec:file r_file_perms;
 allow init fsverity_init:process setpgid;
+allow init incident_exec:file r_file_perms;
+allow init incident_helper_exec:file r_file_perms;
+allow init migrate_legacy_obb_data_exec:file r_file_perms;

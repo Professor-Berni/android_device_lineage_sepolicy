@@ -1,1 +1,2 @@
+allow odsign unlabeled:binder impersonate;
 allow odsign vendor_file:file r_file_perms;

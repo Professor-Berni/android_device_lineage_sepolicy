@@ -1,1 +1,2 @@
+allow storaged unlabeled:binder impersonate;
 allow storaged vendor_file:file rx_file_perms;
